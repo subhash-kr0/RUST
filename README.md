@@ -100,23 +100,21 @@ Welcome to the Rust Programming Language repository! This repository is designed
 - [16.4. Extensible Concurrency with the Sync and Send Traits](https://github.com/subhash-kr0/RUST/sync-send-traits)
 
 ## 17. Object-Oriented Programming Features of Rust
-- [17.1. Characteristics of Object-Oriented Languages](https://github.com/subhash-kr0/RUST/oop-characteristics)
-- [17.2. Using Trait Objects That Allow for Values of Different Types](https://github.com/subhash-kr0/RUST/trait-objects)
-- [17.3. Implementing an Object-Oriented Design Pattern](https://github.com/subhash-kr0/RUST/oop-design-pattern)
+- [17.1. Characteristics of Object-Oriented Languages](https://github.com/subhash-kr0/RUST/blob/main/17.%20Object%20Oriented%20Programming%20Features%20of%20Rust/17.1.%20Characteristics%20of%20Object-Oriented%20Languages.md)
+- [17.2. Using Trait Objects That Allow for Values of Different Types](https://github.com/subhash-kr0/RUST/blob/main/17.%20Object%20Oriented%20Programming%20Features%20of%20Rust/17.2.%20Using%20Trait%20Objects%20That%20Allow%20for%20Values%20of%20Different%20Types.md)
+- [17.3. Implementing an Object-Oriented Design Pattern](https://github.com/subhash-kr0/RUST/blob/main/17.%20Object%20Oriented%20Programming%20Features%20of%20Rust/17.3.%20Implementing%20an%20Object-Oriented%20Design%20Pattern.md)
 
 ## 18. Patterns and Matching
-- [18.1. All the Places Patterns Can Be Used](https://github.com/subhash-kr0/RUST/patterns)
-- [18.2. Refutability: Whether a Pattern Will Match](https://github.com/subhash-kr0/RUST/refutability)
-- [18.3. Matching Literals, Variables, and Wildcards](https://github.com/subhash-kr0/RUST/matching-literals)
-- [18.4. Matching Destructured Structs and Enums](https://github.com/subhash-kr0/RUST/destructuring)
-- [18.5. Multiple Patterns and OR](https://github.com/subhash-kr0/RUST/multiple-patterns)
+- [18.1. All the Places Patterns Can Be Used](https://github.com/subhash-kr0/RUST/blob/main/18.%20Patterns%20and%20Matching/18.1.%20All%20the%20Places%20Patterns%20Can%20Be%20Used.md)
+- [18.2. Refutability: Whether a Pattern Will Match](https://github.com/subhash-kr0/RUST/blob/main/18.%20Patterns%20and%20Matching/18.2.%20Refutability-%20Whether%20a%20Pattern%20Might%20Fail%20to%20Match.md)
+- [18.3. Pattern Syntax](https://github.com/subhash-kr0/RUST/blob/main/18.%20Patterns%20and%20Matching/18.3.%20Pattern%20Syntax.md)
 
 ## 19. Advanced Features
-- 19.1. Unsafe Rust
-- 19.2. Advanced Traits
-- 19.3. Advanced Types
-- 19.4. Advanced Functions and Closures
-- 19.5. Macros
+- [19.1. Unsafe Rust](https://github.com/subhash-kr0/RUST/blob/main/19.%20Advanced%20Features/19.1.%20Unsafe%20Rust.md)
+- [19.2. Advanced Traits](https://github.com/subhash-kr0/RUST/blob/main/19.%20Advanced%20Features/19.2.%20Advanced%20Traits.md)
+- [19.3. Advanced Types](https://github.com/subhash-kr0/RUST/blob/main/19.%20Advanced%20Features/19.3.%20Advanced%20Types.md)
+- [19.4. Advanced Functions and Closures](https://github.com/subhash-kr0/RUST/blob/main/19.%20Advanced%20Features/19.4.%20Advanced%20Functions%20and%20Closures.md)
+- [19.5. Macros](https://github.com/subhash-kr0/RUST/blob/main/19.%20Advanced%20Features/19.5.%20Macros.md)
 
 ## 20. Final Project: Building a Multithreaded Web Server
 - [20.1. Building a Single-Threaded Web Server](https://github.com/subhash-kr0/RUST/blob/main/20.%20Final%20Project/20.1.%20Building%20a%20Single-Threaded%20Web%20Server.md)
