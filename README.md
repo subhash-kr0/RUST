@@ -38,31 +38,31 @@ Welcome to the Rust Programming Language repository! This repository is designed
 - [6.3. Concise Control Flow with if let](https://github.com/subhash-kr0/RUST/blob/main/6.%20Enums%20and%20Pattern%20Matching/6.3.%20Concise%20Control%20Flow%20with%20if%20let.md)
 
 ## 7. Managing Growing Projects
-- [7.1. Packages and Crates](https://github.com/subhash-kr0/RUST/packages-and-crates)
-- [7.2. Defining Modules to Control Scope and Privacy](https://github.com/subhash-kr0/RUST/defining-modules)
-- [7.3. Paths for Referring to an Item in the Module Tree](https://github.com/subhash-kr0/RUST/item-paths)
-- [7.4. Bringing Paths Into Scope with the use Keyword](https://github.com/subhash-kr0/RUST/bringing-paths-into-scope)
-- [7.5. Separating Modules into Different Files](https://github.com/subhash-kr0/RUST/separating-modules)
+- [7.1. Packages and Crates](https://github.com/subhash-kr0/RUST/blob/main/7.%20Managing%20Growing%20Projects/7.1.%20Packages%20and%20Crates.md)
+- [7.2. Defining Modules to Control Scope and Privacy](https://github.com/subhash-kr0/RUST/blob/main/7.%20Managing%20Growing%20Projects/7.2.%20Defining%20Modules%20to%20Control%20Scope%20and%20Privacy.md)
+- [7.3. Paths for Referring to an Item in the Module Tree](https://github.com/subhash-kr0/RUST/blob/main/7.%20Managing%20Growing%20Projects/7.3.%20Paths%20for%20Referring%20to%20an%20Item%20in%20the%20Module%20Tree.md)
+- [7.4. Bringing Paths Into Scope with the use Keyword](https://github.com/subhash-kr0/RUST/blob/main/7.%20Managing%20Growing%20Projects/7.4.%20Bringing%20Paths%20Into%20Scope%20with%20the%20use%20Keyword.md)
+- [7.5. Separating Modules into Different Files](https://github.com/subhash-kr0/RUST/blob/main/7.%20Managing%20Growing%20Projects/7.5.%20Separating%20Modules%20into%20Different%20Files.md)
 
 ## 8. Common Collections
-- [8.1. Storing Lists of Values with Vectors](https://github.com/subhash-kr0/RUST/vectors)
-- [8.2. Storing UTF-8 Encoded Text with Strings](https://github.com/subhash-kr0/RUST/strings)
-- [8.3. Storing Keys with Associated Values in Hash Maps](https://github.com/subhash-kr0/RUST/hash-maps)
+- [8.1. Storing Lists of Values with Vectors](https://github.com/subhash-kr0/RUST/blob/main/8.%20Common%20Collections/8.1.%20Storing%20Lists%20of%20Values%20with%20Vectors.md)
+- [8.2. Storing UTF-8 Encoded Text with Strings](https://github.com/subhash-kr0/RUST/blob/main/8.%20Common%20Collections/8.2.%20Storing%20UTF-8%20Encoded%20Text%20with%20Strings.md)
+- [8.3. Storing Keys with Associated Values in Hash Maps](https://github.com/subhash-kr0/RUST/blob/main/8.%20Common%20Collections/8.3.%20Storing%20Keys%20with%20Associated%20Values%20in%20Hash%20Maps.md)
 
 ## 9. Error Handling
-- [9.1. Unrecoverable Errors with panic!](https://github.com/subhash-kr0/RUST/unrecoverable-errors)
-- [9.2. Recoverable Errors with Result](https://github.com/subhash-kr0/RUST/recoverable-errors)
-- [9.3. To panic! or Not to panic!](https://github.com/subhash-kr0/RUST/to-panic-or-not-to-panic)
+- [9.1. Unrecoverable Errors with panic!](https://github.com/subhash-kr0/RUST/blob/main/9.%20Error%20Handling/9.1.%20Unrecoverable%20Errors%20with%20panic!.md)
+- [9.2. Recoverable Errors with Result](https://github.com/subhash-kr0/RUST/blob/main/9.%20Error%20Handling/9.2.%20Recoverable%20Errors%20with%20Result.md)
+- [9.3. To panic! or Not to panic!](https://github.com/subhash-kr0/RUST/blob/main/9.%20Error%20Handling/9.3.%20To%20panic!%20or%20Not%20to%20panic!.md)
 
 ## 10. Generic Types, Traits, and Lifetimes
-- [10.1. Generic Data Types](https://github.com/subhash-kr0/RUST/generic-data-types)
-- [10.2. Traits: Defining Shared Behavior](https://github.com/subhash-kr0/RUST/traits)
-- [10.3. Validating References with Lifetimes](https://github.com/subhash-kr0/RUST/lifetimes)
+- [10.1. Generic Data Types](https://github.com/subhash-kr0/RUST/blob/main/10.%20Generic%20Types%2C%20Traits%2C%20and%20Lifetimes/10.1.%20Generic%20Data%20Types.md)
+- [10.2. Traits: Defining Shared Behavior](https://github.com/subhash-kr0/RUST/blob/main/10.%20Generic%20Types%2C%20Traits%2C%20and%20Lifetimes/10.2.%20Traits-%20Defining%20Shared%20Behavior.md)
+- [10.3. Validating References with Lifetimes](https://github.com/subhash-kr0/RUST/blob/main/10.%20Generic%20Types%2C%20Traits%2C%20and%20Lifetimes/10.3.%20Validating%20References%20with%20Lifetimes.md)
 
 ## 11. Writing Automated Tests
-- [11.1. How to Write Tests](https://github.com/subhash-kr0/RUST/writing-tests)
-- [11.2. Controlling How Tests Are Run](https://github.com/subhash-kr0/RUST/controlling-tests)
-- [11.3. Test Organization](https://github.com/subhash-kr0/RUST/test-organization)
+- [11.1. How to Write Tests](https://github.com/subhash-kr0/RUST/blob/main/11.%20Writing%20Automated%20Tests/11.1.%20How%20to%20Write%20Tests.md)
+- [11.2. Controlling How Tests Are Run](https://github.com/subhash-kr0/RUST/blob/main/11.%20Writing%20Automated%20Tests/11.2.%20Controlling%20How%20Tests%20Are%20Run.md)
+- [11.3. Test Organization](https://github.com/subhash-kr0/RUST/blob/main/11.%20Writing%20Automated%20Tests/11.3.%20Test%20Organization.md)
 
 ## 12. An I/O Project
 - [12.1. Accepting Command Line Arguments](https://github.com/subhash-kr0/RUST/command-line-arguments)
