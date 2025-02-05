@@ -65,39 +65,39 @@ Welcome to the Rust Programming Language repository! This repository is designed
 - [11.3. Test Organization](https://github.com/subhash-kr0/RUST/blob/main/11.%20Writing%20Automated%20Tests/11.3.%20Test%20Organization.md)
 
 ## 12. An I/O Project
-- [12.1. Accepting Command Line Arguments](https://github.com/subhash-kr0/RUST/command-line-arguments)
-- [12.2. Reading a File](https://github.com/subhash-kr0/RUST/reading-file)
-- [12.3. Refactoring to Improve Modularity and Error Handling](https://github.com/subhash-kr0/RUST/refactoring)
-- [12.4. Developing the Library’s Functionality with Test Driven Development](https://github.com/subhash-kr0/RUST/test-driven-development)
-- [12.5. Working with Environment Variables](https://github.com/subhash-kr0/RUST/environment-variables)
-- [12.6. Writing Error Messages to Standard Error Instead of Standard Output](https://github.com/subhash-kr0/RUST/error-messages)
+- [12.1. Accepting Command Line Arguments](https://github.com/subhash-kr0/RUST/blob/main/12.%20An%20I-O%20Project/12.1.%20Accepting%20Command%20Line%20Arguments.md)
+- [12.2. Reading a File](https://github.com/subhash-kr0/RUST/blob/main/12.%20An%20I-O%20Project/12.2.%20Reading%20a%20File.md)
+- [12.3. Refactoring to Improve Modularity and Error Handling](https://github.com/subhash-kr0/RUST/blob/main/12.%20An%20I-O%20Project/12.3.%20Refactoring%20to%20Improve%20Modularity%20and%20Error%20Handling.md)
+- [12.4. Developing the Library’s Functionality with Test Driven Development](https://github.com/subhash-kr0/RUST/blob/main/12.%20An%20I-O%20Project/12.4.%20Developing%20the%20Library%E2%80%99s%20Functionality%20with%20Test%20Driven%20Development.md)
+- [12.5. Working with Environment Variables](https://github.com/subhash-kr0/RUST/blob/main/12.%20An%20I-O%20Project/12.5.%20Working%20with%20Environment%20Variables.md)
+- [12.6. Writing Error Messages to Standard Error Instead of Standard Output](https://github.com/subhash-kr0/RUST/blob/main/12.%20An%20I-O%20Project/12.6.%20Writing%20Error%20Messages%20to%20Standard%20Error%20Instead%20of%20Standard%20Output.md)
 
 ## 13. Functional Language Features
-- [13.1. Closures: Anonymous Functions that Capture Their Environment](https://github.com/subhash-kr0/RUST/closures)
-- [13.2. Processing a Series of Items with Iterators](https://github.com/subhash-kr0/RUST/iterators)
-- [13.3. Improving Our I/O Project](https://github.com/subhash-kr0/RUST/improve-io-project)
-- [13.4. Comparing Performance: Loops vs. Iterators](https://github.com/subhash-kr0/RUST/loops-vs-iterators)
+- [13.1. Closures: Anonymous Functions that Capture Their Environment](https://github.com/subhash-kr0/RUST/blob/main/13.%20Functional%20Language%20Features/13.1.%20Closures%20-%20Anonymous%20Functions%20that%20Capture%20Their%20Environment.md)
+- [13.2. Processing a Series of Items with Iterators](https://github.com/subhash-kr0/RUST/blob/main/13.%20Functional%20Language%20Features/13.2.%20Processing%20a%20Series%20of%20Items%20with%20Iterators.md)
+- [13.3. Improving Our I/O Project](https://github.com/subhash-kr0/RUST/blob/main/13.%20Functional%20Language%20Features/13.3.%20Improving%20Our%20I-O%20Project.md)
+- [13.4. Comparing Performance: Loops vs. Iterators](https://github.com/subhash-kr0/RUST/blob/main/13.%20Functional%20Language%20Features/13.4.%20Comparing%20Performance-%20Loops%20vs.%20Iterators.md)
 
 ## 14. More about Cargo and Crates.io
-- [14.1. Customizing Builds with Release Profiles](https://github.com/subhash-kr0/RUST/release-profiles)
-- [14.2. Publishing a Crate to Crates.io](https://github.com/subhash-kr0/RUST/publishing-to-cratesio)
-- [14.3. Cargo Workspaces](https://github.com/subhash-kr0/RUST/cargo-workspaces)
-- [14.4. Installing Binaries from Crates.io with cargo install](https://github.com/subhash-kr0/RUST/installing-binaries)
-- [14.5. Extending Cargo with Custom Commands](https://github.com/subhash-kr0/RUST/extending-cargo)
+- [14.1. Customizing Builds with Release Profiles](https://github.com/subhash-kr0/RUST/blob/main/14.%20More%20about%20Cargo%20and%20Crates.io/14.1.%20Customizing%20Builds%20with%20Release%20Profiles.md)
+- [14.2. Publishing a Crate to Crates.io](https://github.com/subhash-kr0/RUST/blob/main/14.%20More%20about%20Cargo%20and%20Crates.io/14.2.%20Publishing%20a%20Crate%20to%20Crates.io.md)
+- [14.3. Cargo Workspaces](https://github.com/subhash-kr0/RUST/blob/main/14.%20More%20about%20Cargo%20and%20Crates.io/14.3.%20Cargo%20Workspaces.md)
+- [14.4. Installing Binaries from Crates.io with cargo install](https://github.com/subhash-kr0/RUST/blob/main/14.%20More%20about%20Cargo%20and%20Crates.io/14.4.%20Installing%20Binaries%20from%20Crates.io%20with%20cargo%20install.md)
+- [14.5. Extending Cargo with Custom Commands](https://github.com/subhash-kr0/RUST/blob/main/14.%20More%20about%20Cargo%20and%20Crates.io/14.5.%20Extending%20Cargo%20with%20Custom%20Commands.md)
 
 ## 15. Smart Pointers
-- [15.1. Using Box<T> to Point to Data on the Heap](https://github.com/subhash-kr0/RUST/box-pointer)
-- [15.2. Treating Smart Pointers Like Regular References with the Deref Trait](https://github.com/subhash-kr0/RUST/deref-trait)
-- [15.3. Running Code on Cleanup with the Drop Trait](https://github.com/subhash-kr0/RUST/drop-trait)
-- [15.4. Rc<T>, the Reference Counted Smart Pointer](https://github.com/subhash-kr0/RUST/rc-pointer)
-- [15.5. RefCell<T> and the Interior Mutability Pattern](https://github.com/subhash-kr0/RUST/refcell)
-- [15.6. Reference Cycles Can Leak Memory](https://github.com/subhash-kr0/RUST/reference-cycles)
+- [15.1. Using Box<T> to Point to Data on the Heap](https://github.com/subhash-kr0/RUST/blob/main/15.%20Smart%20Pointers/15.1.%20Using%20Box%3CT%3E%20to%20Point%20to%20Data%20on%20the%20Heap.md)
+- [15.2. Treating Smart Pointers Like Regular References with the Deref Trait](https://github.com/subhash-kr0/RUST/blob/main/15.%20Smart%20Pointers/15.2.%20Treating%20Smart%20Pointers%20Like%20Regular%20References%20with%20the%20Deref%20Trait.md)
+- [15.3. Running Code on Cleanup with the Drop Trait](https://github.com/subhash-kr0/RUST/blob/main/15.%20Smart%20Pointers/15.3.%20Running%20Code%20on%20Cleanup%20with%20the%20Drop%20Trait.md)
+- [15.4. Rc<T>, the Reference Counted Smart Pointer](https://github.com/subhash-kr0/RUST/blob/main/15.%20Smart%20Pointers/15.4.%20Rc%3CT%3E%2C%20the%20Reference%20Counted%20Smart%20Pointer.md)
+- [15.5. RefCell<T> and the Interior Mutability Pattern](https://github.com/subhash-kr0/RUST/blob/main/15.%20Smart%20Pointers/15.5.%20RefCell%3CT%3E%20and%20the%20Interior%20Mutability%20Pattern.md)
+- [15.6. Reference Cycles Can Leak Memory](https://github.com/subhash-kr0/RUST/blob/main/15.%20Smart%20Pointers/15.6.%20Reference%20Cycles%20Can%20Leak%20Memory.md)
 
 ## 16. Fearless Concurrency
-- [16.1. Using Threads to Run Code Simultaneously](https://github.com/subhash-kr0/RUST/threads)
-- [16.2. Using Message Passing to Transfer Data Between Threads](https://github.com/subhash-kr0/RUST/message-passing)
-- [16.3. Shared-State Concurrency](https://github.com/subhash-kr0/RUST/shared-state)
-- [16.4. Extensible Concurrency with the Sync and Send Traits](https://github.com/subhash-kr0/RUST/sync-send-traits)
+- [16.1. Using Threads to Run Code Simultaneously](https://github.com/subhash-kr0/RUST/blob/main/16.%20Fearless%20Concurrency/16.1.%20Using%20Threads%20to%20Run%20Code%20Simultaneously.md)
+- [16.2. Using Message Passing to Transfer Data Between Threads](https://github.com/subhash-kr0/RUST/blob/main/16.%20Fearless%20Concurrency/16.2.%20Using%20Message%20Passing%20to%20Transfer%20Data%20Between%20Threads.md)
+- [16.3. Shared-State Concurrency](https://github.com/subhash-kr0/RUST/blob/main/16.%20Fearless%20Concurrency/16.3.%20Shared-State%20Concurrency.md)
+- [16.4. Extensible Concurrency with the Sync and Send Traits](https://github.com/subhash-kr0/RUST/blob/main/16.%20Fearless%20Concurrency/16.4.%20Extensible%20Concurrency%20with%20the%20Sync%20and%20Send%20Traits.md)
 
 ## 17. Object-Oriented Programming Features of Rust
 - [17.1. Characteristics of Object-Oriented Languages](https://github.com/subhash-kr0/RUST/blob/main/17.%20Object%20Oriented%20Programming%20Features%20of%20Rust/17.1.%20Characteristics%20of%20Object-Oriented%20Languages.md)
