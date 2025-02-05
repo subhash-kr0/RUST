@@ -8,34 +8,34 @@ This repository contains a simplified version of the Rust book, designed to help
 Welcome to the Rust Programming Language repository! This repository is designed to help you get started with learning and using Rust, a systems programming language that is fast, memory-efficient, and guarantees memory safety without needing a garbage collector.
 
 ## 1. Getting Started
-- [1.1. Installation](https://github.com/subhash-kr0/RUST/installation)
-- [1.2. Hello, World!](https://github.com/subhash-kr0/RUST/hello-world)
-- [1.3. Hello, Cargo!](https://github.com/subhash-kr0/RUST/hello-cargo)
+- [1.1. Installation](https://github.com/subhash-kr0/RUST/blob/main/1.%20Getting%20Started/1.1.%20Installation.md)
+- [1.2. Hello, World!](https://github.com/subhash-kr0/RUST/blob/main/1.%20Getting%20Started/1.2.%20Hello%2C%20World!.md)
+- [1.3. Hello, Cargo!](https://github.com/subhash-kr0/RUST/blob/main/1.%20Getting%20Started/1.3.%20Hello%2C%20Cargo!.md)
 
 ## 2. Programming a Guessing Game
-[Learn more here](https://github.com/subhash-kr0/RUST/programming-a-guessing-game)
+[Learn more here](https://github.com/subhash-kr0/RUST/blob/main/2.%20Programming%20a%20Guessing%20Game/game.md)
 
 ## 3. Common Programming Concepts
-- [3.1. Variables and Mutability](https://github.com/subhash-kr0/RUST/variables-and-mutability)
-- [3.2. Data Types](https://github.com/subhash-kr0/RUST/data-types)
-- [3.3. Functions](https://github.com/subhash-kr0/RUST/functions)
-- [3.4. Comments](https://github.com/subhash-kr0/RUST/comments)
-- [3.5. Control Flow](https://github.com/subhash-kr0/RUST/control-flow)
+- [3.1. Variables and Mutability](https://github.com/subhash-kr0/RUST/blob/main/3.%20Common%20Programming%20Concepts/3.1.%20Variables%20and%20Mutability.md)
+- [3.2. Data Types](https://github.com/subhash-kr0/RUST/blob/main/3.%20Common%20Programming%20Concepts/3.2.%20Data%20Types.md)
+- [3.3. Functions](https://github.com/subhash-kr0/RUST/blob/main/3.%20Common%20Programming%20Concepts/3.3.%20Functions.md)
+- [3.4. Comments](https://github.com/subhash-kr0/RUST/blob/main/3.%20Common%20Programming%20Concepts/3.4.%20Comments.md)
+- [3.5. Control Flow](https://github.com/subhash-kr0/RUST/blob/main/3.%20Common%20Programming%20Concepts/3.5.%20Control%20Flow.md)
 
 ## 4. Understanding Ownership
-- [4.1. What is Ownership?](https://github.com/subhash-kr0/RUST/what-is-ownership)
-- [4.2. References and Borrowing](https://github.com/subhash-kr0/RUST/references-and-borrowing)
-- [4.3. The Slice Type](https://github.com/subhash-kr0/RUST/slice-type)
+- [4.1. What is Ownership?](https://github.com/subhash-kr0/RUST/blob/main/4.%20Understanding%20Ownership/4.1.%20What%20is%20Ownership.md)
+- [4.2. References and Borrowing](https://github.com/subhash-kr0/RUST/blob/main/4.%20Understanding%20Ownership/4.2.%20References%20and%20Borrowing.md)
+- [4.3. The Slice Type](https://github.com/subhash-kr0/RUST/blob/main/4.%20Understanding%20Ownership/4.3.%20The%20Slice%20Type.md)
 
 ## 5. Using Structs to Structure Related Data
-- [5.1. Defining and Instantiating Structs](https://github.com/subhash-kr0/RUST/defining-structs)
-- [5.2. An Example Program Using Structs](https://github.com/subhash-kr0/RUST/example-program-with-structs)
-- [5.3. Method Syntax](https://github.com/subhash-kr0/RUST/method-syntax)
+- [5.1. Defining and Instantiating Structs](https://github.com/subhash-kr0/RUST/blob/main/5.%20Using%20Structs%20to%20Structure%20Related%20Data/5.1.%20Defining%20and%20Instantiating%20Structs.md)
+- [5.2. An Example Program Using Structs](https://github.com/subhash-kr0/RUST/blob/main/5.%20Using%20Structs%20to%20Structure%20Related%20Data/5.2.%20An%20Example%20Program%20Using%20Structs.md)
+- [5.3. Method Syntax](https://github.com/subhash-kr0/RUST/blob/main/5.%20Using%20Structs%20to%20Structure%20Related%20Data/5.3.%20Method%20Syntax.md)
 
 ## 6. Enums and Pattern Matching
-- [6.1. Defining an Enum](https://github.com/subhash-kr0/RUST/defining-enums)
-- [6.2. The match Control Flow Construct](https://github.com/subhash-kr0/RUST/match-control-flow)
-- [6.3. Concise Control Flow with if let](https://github.com/subhash-kr0/RUST/control-flow-with-if-let)
+- [6.1. Defining an Enum](https://github.com/subhash-kr0/RUST/blob/main/6.%20Enums%20and%20Pattern%20Matching/6.1.%20Defining%20an%20Enum.md)
+- [6.2. The match Control Flow Construct](https://github.com/subhash-kr0/RUST/blob/main/6.%20Enums%20and%20Pattern%20Matching/6.2.%20The%20match%20Control%20Flow%20Construct.md)
+- [6.3. Concise Control Flow with if let](https://github.com/subhash-kr0/RUST/blob/main/6.%20Enums%20and%20Pattern%20Matching/6.3.%20Concise%20Control%20Flow%20with%20if%20let.md)
 
 ## 7. Managing Growing Projects
 - [7.1. Packages and Crates](https://github.com/subhash-kr0/RUST/packages-and-crates)
